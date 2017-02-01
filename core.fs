@@ -1,4 +1,5 @@
 <<board>>   \ erase flash above <<board>>
+\ minor changes
 
 compiletoflash
 
