@@ -1,4 +1,5 @@
 \ board definitions for special homemade board
+\ to be changed
 
 eraseflash    \ erase flash above always
 compiletoflash
